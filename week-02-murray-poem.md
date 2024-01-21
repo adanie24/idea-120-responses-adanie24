@@ -5,5 +5,6 @@ nor inclination of such desire.</p>
 <p>and yet, the light dances along the edge  
 like a performer's pre-meditated steps in an empty dancehall. unknowing  
 of the audience who thinks her to be real.</p>
-(![image](https://github.com/adanie24/idea-120-responses-adanie24/assets/156255222/fcf41ca2-9460-4ebe-97d1-fae4f2214438)         
+![image](https://i.pinimg.com/736x/b4/0f/43/b40f436092fd45929c80c593ffc18e8b.jpg)
+      
 <p>Who is more [real](https://www.youtube.com/watch?v=ODJsi5CMj7U)?</p>
