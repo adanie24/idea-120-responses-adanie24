@@ -1,12 +1,11 @@
 <h5> The Light That Bends</h5>
-![A photo of an old movie projector.]         
-(https://media.istockphoto.com/id/461998989/photo/photo-of-an-old-movie-projector.jpg?s=612x612&w=0&k=20&c=U5q3IB106Zjcc5b0qDOQN1YZH4ktfaMTyVzwcuLuMfI=)
+![image](https://github.com/adanie24/idea-120-responses-adanie24/assets/156255222/29131796-4dd4-4404-badd-34a6a861c42a)
 <p> the screen stands still, with no thought of motion  
 nor inclination of such desire.</p>
 <p>and yet, the light dances along the edge  
 like a performer's pre-meditated steps in an empty dancehall. unknowing  
 of the audience who thinks her to be real.</p>
-![A photo of a shadow box dancer.]           
-(https://i.pinimg.com/736x/b4/0f/43/b40f436092fd45929c80c593ffc18e8b.jpg)
+![image](https://github.com/adanie24/idea-120-responses-adanie24/assets/156255222/a8b9af16-eccd-4963-b912-0d0e9aeb770e)
+
       
 <p>Who is more [real](https://www.youtube.com/watch?v=ODJsi5CMj7U)?</p>
