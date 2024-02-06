@@ -6,4 +6,4 @@ interpretation of the poem will naturally begin to form.</p>
 multiple senses during it. They must engage their eyes to follow along, their ears to listen to the other actors, and their hands to turn pages. The purpose of these readings is
 to invite participation from the actors and encourage them to bounce off of each other in order to get into character for their performances. The more practice the actors have with
 their lines and scenes, the more complete the show is, with a fully realized vision that later encourages the audience watching to participate.</p>
-![An image of people sitting in a circle, reading scripts by a table.](script_circle.jpg)
+![script_circle](https://github.com/adanie24/idea-120-responses-adanie24/assets/156255222/23c5af78-cbe7-4a6d-b0e0-feacb7ebc961)   
