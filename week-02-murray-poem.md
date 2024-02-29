@@ -6,5 +6,5 @@
 <p>and yet, the light dances along the edge</p>
 like a performer's pre-meditated steps in an empty dancehall. unknowing  
 <p>of the audience who thinks her to be real.</p>
-![A dancer in a shadow box.](assets/images/shadowdance2.jpg)
+![A dancer in a shadow box.](assets/assets/shadowdance2.jpg)
 <p>Who is more [real](https://www.youtube.com/watch?v=ODJsi5CMj7U)?</p>
