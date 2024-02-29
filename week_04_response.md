@@ -1,7 +1,7 @@
 <p>An example of hot media could be a poem, at least when read in solitude. A poem intensely engages your eyes as you read it, requiring you to pay attention to the language above all else.</p>    
 <p>The diction, the line breaks, the end stops, the imagery are the most integral pieces of a poem in order to understand its meaning. It also means that as you read intently, your own
 interpretation of the poem will naturally begin to form.</p>
-![poetry_read](assets/assets/poetry_read.jpg)    
+![Someone reading a poetry book.](assets/assets/poetry_read.jpg)    
 
 <p>One example of cold media could be a cast script reading, before rehearsals begin for a play or a musical. The audience in this case is the actors themselves, and they have to engage
 multiple senses during it. They must engage their eyes to follow along, their ears to listen to the other actors, and their hands to turn pages. The purpose of these readings is
