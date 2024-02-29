@@ -8,4 +8,4 @@ form the image itself is brought into question, what it could be implying, why t
 for Orla Gartland's album cover for her single "Between my Teeth", people could take away that the red roses covering the person's face are meant to symbolize how the   
 standard for romantic love is distorting our view of them, while the only parts of their body that we see are the abdomen and limbs. Even without the song's lyrics and instrumental,    
 the medium itself makes us analyze the image for underlying messages.</p>
-![Album cover of Orla Gartland's "Between my Teeth"](/assets/images/albumcover.jpg)
+![Album cover of Orla Gartland's "Between my Teeth"](/film images/images/albumcover.jpg)
