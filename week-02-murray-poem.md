@@ -1,5 +1,5 @@
 <h5> The Light That Bends</h5>
-![A film projector.](assets/images/filmproject.jpg)
+![A film projector.](assets/assets/filmproject.jpg)
 
 <p> the screen stands still, with no thought of motion</p>
 <p>nor inclination of such desire.</p>
